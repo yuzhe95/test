@@ -1,5 +1,5 @@
 package com.and.netease;
-
+//add test comment
 import com.and.netease.utils.MoveBg;
 
 import android.app.TabActivity;
